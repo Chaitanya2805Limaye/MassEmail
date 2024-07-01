@@ -1,0 +1,36 @@
+{
+  "name": "cloud",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+<<<<<<< HEAD
+    "@aws-amplify/ui-react": "^4.6.0",
+=======
+>>>>>>> 727d961793c51216cbd62d9ce315dcf643d59d09
+    "@aws-sdk/client-ses": "^3.312.0",
+    "amazon-cognito-identity-js": "^6.2.0",
+    "aws-amplify": "^5.1.1",
+    "aws-sdk": "^2.1358.0",
+<<<<<<< HEAD
+    "axios": "^1.3.5",
+=======
+>>>>>>> 727d961793c51216cbd62d9ce315dcf643d59d09
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.10.0",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^3.1.0",
+    "tailwindcss": "^3.3.1",
+    "vite": "^4.2.0"
+  }
+}
